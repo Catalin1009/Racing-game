@@ -1,0 +1,165 @@
+﻿  C:freeglut.dll
+  C:glew32.dll
+  C:glew32s.dll
+  3 File(s) copied
+  C:glfw3.dll
+  C:glfw3dll.dll
+  C:glfw3_mt.dll
+  3 File(s) copied
+  C:SOIL.dll
+  1 File(s) copied
+  main.cpp
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(65,29): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(66,33): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(72,29): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(73,33): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(80,38): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(99,21): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(100,21): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(130,21): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(131,21): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(136,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(140,41): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(141,41): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(149,41): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(150,41): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(158,41): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(159,41): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(174,21): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(175,21): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(192,21): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(193,21): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(204,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(210,25): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(211,25): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(224,21): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(225,20): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(233,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(238,20): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(239,20): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(247,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(252,20): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(253,20): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(268,21): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(269,20): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(277,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(282,20): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(283,20): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(291,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(296,20): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(297,20): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(310,20): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(311,20): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(319,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(324,20): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(325,20): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(336,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(340,21): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(341,21): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(378,79): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(378,65): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(378,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(378,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(381,11): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(393,21): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(393,13): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(394,26): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(394,20): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(395,33): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(395,20): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(396,28): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(396,13): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(404,26): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(405,26): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(415,25): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(416,26): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(422,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(424,26): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(424,20): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(425,33): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(425,20): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(433,26): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(434,26): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(444,53): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(444,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(453,34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(458,18): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(459,18): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(469,18): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(470,18): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(524,23): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(530,82): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(530,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(530,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(530,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(534,82): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(534,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(534,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(534,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(549,26): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(549,20): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(550,33): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(550,20): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(551,33): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(551,20): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(568,21): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(569,21): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(578,28): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(578,13): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(579,33): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(579,20): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(580,28): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(580,13): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(581,33): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(581,20): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(587,32): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(587,20): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(588,33): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(588,20): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(589,32): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(589,20): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(590,33): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(590,20): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(610,54): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(610,35): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(622,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(626,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(630,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(636,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(644,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(657,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(664,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(684,23): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(684,15): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(685,23): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(685,15): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(686,18): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(686,13): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(704,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(730,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(759,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(767,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(775,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(788,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(796,34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(801,18): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(802,18): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(818,17): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(827,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(837,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(847,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(884,18): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(885,18): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(890,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(895,18): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(896,18): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(921,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(928,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(934,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(947,10): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(1068,34): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(1076,34): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\main.cpp(1109,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  ProiectGR.vcxproj -> C:\Users\User\Desktop\grafic\lab2\laborator 3\ProiectGR\Debug\ProiectGR.exe
+  0 File(s) copied
+  0 File(s) copied
